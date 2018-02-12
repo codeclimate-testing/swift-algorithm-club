@@ -7,5 +7,5 @@ plugins:
     enabled: true
     channel: swift-beta
 exclude_patterns:
-- "Tests/**/*"
+- "**/*Tests/**/*"
 - "**/*.js"
