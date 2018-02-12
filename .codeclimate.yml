@@ -1,0 +1,11 @@
+---
+plugins:
+  duplication:
+    enabled: true
+    channel: swift-beta
+  structure:
+    enabled: true
+    channel: swift-beta
+exclude_patterns:
+- "Tests/**/*"
+- "**/*.js"
